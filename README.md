@@ -12,7 +12,7 @@ Just download the script... ;)
 
 ### Usage 
 * Setup ESP-IDF path
-* Run the script 
+* Run the script   
   For help
 ```
 CreateMin_ESP-IDF_MakefileProject.sh --help
